@@ -1,0 +1,125 @@
+id,location,team,city,league,championships,appearances
+1,New England,Patriots,Boston,NFL,6,11
+2,New York,Jets,New York,NFL,1,1
+3,Buffalo,Bills,Buffalo,NFL,0,4
+4,Miami,Dolphins,Miami,NFL,2,5
+5,Cleveland,Browns,Cleveland,NFL,0,0
+6,Pittsburgh,Steelers,Pittsburgh,NFL,6,2
+7,Cincinnati,Bengals,Cincinnati,NFL,0,3
+8,Baltimore,Ravens,Baltimore,NFL,2,2
+9,Kansas City,Chiefs,Kansas City,NFL,4,7
+10,Denver,Broncos,Denver,NFL,3,8
+11,Las Vegas,Raiders,Las Vegas,NFL,3,5
+12,Los Angeles,Chargers,Los Angeles,NFL,0,1
+13,Houston,Texans,Houston,NFL,0,0
+14,Jacksonville,Jaguars,Jacksonville,NFL,0,0
+15,Indianapolis,Colts,Indianapolis,NFL,2,4
+16,Tennessee,Titans,Nashville,NFL,0,1
+17,New York,Giants,New York,NFL,4,5
+18,Dallas,Cowboys,Dallas,NFL,5,8
+19,Philadelphia,Eagles,Philadelphia,NFL,2,5
+20,Washington,Commanders,Washington,NFL,3,5
+21,Chicago,Bears,Chicago,NFL,1,2
+22,Detroit,Lions,Detroit,NFL,0,0
+23,Green Bay,Packers,Green Bay,NFL,4,5
+24,Minnesota,Vikings,Minneapolis,NFL,0,4
+25,Seattle,Seahawks,Seattle,NFL,1,3
+26,San Francisco,49ers,San Francisco,NFL,5,8
+27,Arizona,Cardinals,Phoenix,NFL,0,1
+28,Los Angeles,Rams,Los Angeles,NFL,2,5
+29,Tampa Bay,Buccaneers,Tampa,NFL,2,2
+30,New Orleans,Saints,New Orleans,NFL,1,1
+31,Carolina,Panthers,Charlotte,NFL,0,2
+32,Atlanta,Falcons,Atlanta,NFL,0,2
+33,Boston,Celtics,Boston,NBA,18,23
+34,Los Angeles,Lakers,Los Angeles,NBA,17,32
+35,Golden State,Warriors,San Francisco,NBA,7,12
+36,Chicago,Bulls,Chicago,NBA,6,6
+37,San Antonio,Spurs,San Antonio,NBA,5,6
+38,Philadelphia,76ers,Philadelphia,NBA,3,9
+39,Detroit,Pistons,Detroit,NBA,3,7
+40,Miami,Heat,Miami,NBA,3,7
+41,New York,Knicks,New York,NBA,2,8
+42,Houston,Rockets,Houston,NBA,2,4
+43,Milwaukee,Bucks,Milwaukee,NBA,2,3
+44,Cleveland,Cavaliers,Cleveland,NBA,1,5
+45,Atlanta,Hawks,Atlanta,NBA,1,4
+46,Washington,Wizards,Washington,NBA,1,4
+47,Oklahoma City,Thunder,Oklahoma City,NBA,1,4
+48,Portland,Trailblazers,Portland,NBA,1,3
+49,Dallas,Mavericks,Dallas,NBA,1,3
+50,Sacramento,Kings,Sacramento,NBA,1,1
+51,Toronto,Raptors,Toronto,NBA,1,1
+52,Denver,Nuggets,Denver,NBA,1,1
+53,Phoenix,Suns,Phoenix,NBA,0,3
+54,Utah,Jazz,Salt Lake City,NBA,0,2
+55,Brooklyn,Nets,New York,NBA,0,2
+56,Orlando,Magic,Orlando,NBA,0,2
+57,Indiana,Pacers,Indiana,NBA,0,1
+58,Charlotte,Hornets,Charlotte,NBA,0,0
+59,Los Angeles,Clippers,Los Angeles,NBA,0,0
+60,Memphis,Grizzlies,Memphis,NBA,0,0
+61,Minnesota,Timberwolves,Minneapolis,NBA,0,0
+62,New Orleans,Pelicans,New Orleans,NBA,0,0
+63,Montreal,Canadiens,Montreal,NHL,24,35
+64,Detroit,Red Wings,Detroit,NHL,11,24
+65,Toronto,Maple Leafs,Toronto,NHL,13,21
+66,Boston,Bruins,Boston,NHL,6,20
+67,Chicago,Blackhawks,Chicago,NHL,6,13
+68,New York,Rangers,New York,NHL,4,11
+69,Edmonton,Oilers,Edmonton,NHL,5,8
+70,Philadelphia,Flyers,Philadelphia,NHL,2,8
+71,Pittsburgh,Penguins,Pittsburgh,NHL,5,6
+72,New York,Islanders,New York,NHL,4,5
+73,New Jersey,Devils,Newark,NHL,3,5
+74,Tampa Bay,Lightning,Tampa,NHL,3,5
+75,Dallas,Stars,Dallas,NHL,1,5
+76,St Louis,Blues,St Louis,NHL,1,4
+77,Colorado,Avalanche,Denver,NHL,3,3
+78,Los Angeles,Kings,Los Angeles,NHL,2,3
+79,Calgary,Flames,Calgary,NHL,1,3
+80,Florida,Panthers,Miami,NHL,1,3
+81,Vancouver,Canucks,Vancouver,NHL,0,3
+82,Carolina,Hurricanes,Charlotte,NHL,1,1
+83,Anaheim,Ducks,Los Angeles,NHL,1,1
+84,Washington,Capitals,Washington,NHL,1,1
+85,Vegas,Golden Knights,Las Vegas,NHL,1,1
+86,Buffalo,Sabres,Buffalo,NHL,0,2
+87,Ottawa,Senators,Ottawa,NHL,0,1
+88,San Jose,Sharks,San Jose,NHL,0,1
+89,Nashville,Predators,Nashville,NHL,0,1
+90,Columbus,Blue Jackets,Columbus,NHL,0,0
+91,Minnesota,Wild,Minneapolis,NHL,0,0
+92,Seattle,Kraken,Seattle,NHL,0,0
+93,Utah,Hockey Club,Salt Lake City,NHL,0,0
+94,Winnipeg,Jets,Winnipeg,NHL,0,0
+95,New York,Yankees,New York,MLB,27,41
+96,St Louis,Cardinals,St Louis,MLB,11,19
+97,Oakland,Athletics,Oakland,MLB,9,14
+98,Boston,Red Sox,Boston,MLB,9,13
+99,Los Angeles,Dodgers,Los Angeles,MLB,8,22
+100,San Francisco,Giants,San Francisco,MLB,8,20
+101,Cincinnati,Reds,Cincinnati,MLB,5,9
+102,Pittsburgh,Pirates,Pittsburgh,MLB,5,7
+103,Detroit,Tigers,Detroit,MLB,4,11
+104,Atlanta,Falcons,Atlanta,MLB,4,10
+105,Chicago,Cubs,Chicago,MLB,3,11
+106,Baltimore,Orioles,Baltimore,MLB,3,7
+107,Minnesota,Twins,Minneapolis,MLB,3,6
+108,Chicago,White Sox,Chicago,MLB,3,5
+109,Philadelphia,Phillies,Philadelphia,MLB,2,8
+110,Cleveland,Guardians,Cleveland,MLB,2,6
+111,New York,Mets,New York,MLB,2,5
+112,Houston,Astros,Houston,MLB,2,5
+113,Kansas City,Royals,Kansas City,MLB,2,4
+114,Toronto,Blue Jays,Toronto,MLB,2,2
+115,Miami,Marlins,Miami,MLB,2,2
+116,Texas,Rangers,Dallas,MLB,1,3
+117,Arizona,Diamondbacks,Phoenix,MLB,1,2
+118,Los Angeles,Angels,Los Angeles,MLB,1,1
+119,Washington,Nationals,Washington,MLB,1,1
+120,San Diego,Padres,San Diego,MLB,0,2
+121,Tampa Bay,Rays,Tampa,MLB,0,2
+122,Milwaukee,Brewers,Milwaukee,MLB,0,1
+123,Colorado,Rockies,Denver,MLB,0,1
+124,Seattle,Mariners,Seattle,MLB,0,0
