@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
-from dependencies import get_db
-from api.models import League, Team
-from api.schemas import LeagueSchema
+from ...dependencies import get_db
+from ..models import League
+from ..schemas import LeagueSchema
 from typing import List
 
 router = APIRouter()

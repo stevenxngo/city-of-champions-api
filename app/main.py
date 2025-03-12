@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api.routes import cities, teams, leagues
+from .api.routes import cities, teams, leagues
 
 app = FastAPI(title="City of Champions")
 

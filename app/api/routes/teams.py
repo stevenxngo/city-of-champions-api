@@ -1,8 +1,8 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
-from dependencies import get_db
-from api.models import Team
-from api.schemas import TeamSchema
+from ...dependencies import get_db
+from ..models import Team   
+from ..schemas import TeamSchema
 from typing import List
 
 router = APIRouter()
