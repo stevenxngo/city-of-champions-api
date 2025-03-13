@@ -1,5 +1,5 @@
-from data.database import engine, Base
-from api.models import City, League, Team
+from .database import engine, Base
+from ..api.models import League, Team, City
 import pandas as pd
 from sqlalchemy.orm import Session
 from pathlib import Path
